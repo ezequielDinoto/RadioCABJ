@@ -1,0 +1,35 @@
+[
+  {
+    "name" : "EL DESTAPE",
+    "stream" : "https://ipanel.instream.audio/8004/stream"
+
+  },
+  {
+    "name": "FUTUROK",
+    "stream": "https://ipanel.instream.audio:7004/stream"
+  },
+  {
+    "name": "AM550",
+    "stream": "https://ipanel.instream.audio:7000/stream"
+  },
+  {
+    "name": "AM750",
+    "stream": "https://18193.live.streamtheworld.com/RIVADAVIAAAC_SC"
+  },
+  {
+    "name": "LA RED",
+   "stream": "https://17633.live.streamtheworld.com/LA_RED_AM910AAC_SC"
+  },
+  {
+    "name": "DEL PLATA ",
+    "stream": "https://streaming01.shockmedia.com.ar:10217/stream/1/"
+  },
+  {
+    "name": "RADIO URBANA",
+    "stream": "https://server7.hostradios.com/8108/stream"
+  },
+  {
+    "name" : "BBC World Service",
+    "stream" : "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk"
+  }
+]
